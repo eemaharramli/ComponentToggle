@@ -7,7 +7,7 @@ import './app.css'
 function WhoAmI(props){
     return(
         <div>
-            <h1>User name is, surname - {props.name}, surname - {props.surname}</h1>
+            <h1>User name is, surname - {props.name}</h1>
         </div>
     )
 }
